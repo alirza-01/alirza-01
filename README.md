@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/10346030/alireza?tab=profile">
-    <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="StackOverFlow Badge"/>
+    <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
   </a>
   <a href="https://twitter.com/alirzaFarajpour">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
