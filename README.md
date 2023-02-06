@@ -16,4 +16,15 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/alireza-farajpour">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/10346030/alireza?tab=profile">
+    <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="StackOverFlow Badge"/>
+  </a>
+  <a href="https://twitter.com/alirzaFarajpour">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 </div>
